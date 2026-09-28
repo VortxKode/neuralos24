@@ -1,6 +1,6 @@
 # NeuralOS — Marketing Site
 
-The public marketing/landing page for **NeuralOS** (by VortexKode) — a focus/deep-work timer app that turns session history into a growing neural visualization and, for Pro subscribers, decodes behavioral patterns via the Pattern DeKoder.
+The public marketing/landing page for **NeuralOS** (by VortxKode) — a focus/deep-work timer app that turns session history into a growing neural visualization and, for Pro subscribers, decodes behavioral patterns via the Pattern DeKoder.
 
 ## What's here
 
